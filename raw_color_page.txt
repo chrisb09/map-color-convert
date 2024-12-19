@@ -1,0 +1,64 @@
+f itself despite them all being transparent)
+ID 	Color 	RGB 	Blocks
+0 NONE 		Transparent 	Air, Void Air, Cave Air, Barrier, Redstone Lamp, Cake (including cake with Candles), Powered Rail, Detector Rail, Torch, Redstone Wire, Ladder, Rail, Lever, Redstone Torch, Buttons, Repeater, Tripwire Hook, Tripwire, Flower Pot (including potted plants), Head, Comparator, Activator Rail, End Rod, Glass, Glass Pane, Nether Portal, Stained Glass Pane (all colors), Structure Void, Iron Bars, Soul Fire Torch, Chain, Light Block
+1 GRASS 		127, 178, 56 	Grass Block, Slime Block
+2 SAND 		247, 233, 163 	Sand, Birch (Planks, Log (vertical), Stripped Log, Wood, Stripped Wood, Sign, Pressure Plate, Trapdoor, Stairs, Slab, Fence Gate, Fence, Door), Sandstone (All variants, all slabs, all stairs, all walls), Glowstone, End Stone, End Stone Bricks (slab, stairs, wall), Bone Block, Turtle Egg, Scaffolding, Candle, Ochre Froglight
+3 WOOL 		199, 199, 199 	Cobweb, Mushroom Stem, Bed (head), White Candle
+4 FIRE 		255, 0, 0 	Lava, TNT, Fire, Redstone Block
+5 ICE 		160, 160, 255 	Ice, Frosted Ice, Packed Ice, Blue Ice
+6 METAL 		167, 167, 167 	Block of Iron, Iron Door, Brewing Stand, Heavy Weighted Pressure Plate, Iron Trapdoor, Lantern, Anvil (all damage levels), Grindstone, Soul Fire Lantern, Lodestone
+7 PLANT 		0, 124, 0 	Sapling, Flowers, Wheat, Sugar Cane, Pumpkin Stem, Melon Stem, Lily Pad, Cocoa, Carrots, Potatoes, Beetroots, Sweet Berry Bush, Grass, Fern, Vines, Leaves, Cactus, Bamboo, Cave Vines, Spore Blossom, (Flowering) Azalea, Dripleaf (big and small)
+8 SNOW 		255, 255, 255 	Snow, Snow Block, White (Bed (foot), Wool, Stained Glass, Carpet, Shulker Box, Glazed Terracotta, Concrete, Concrete Powder), Powder Snow
+9 CLAY 		164, 168, 184 	Clay, Infested Block (not including infested Deepslate)
+10 DIRT 		151, 109, 77 	Dirt, Coarse Dirt, Farmland, Dirt Path, Granite (slab, stairs, wall), Polished Granite (slab, stairs), Jungle (Planks, Log (vertical), Stripped Log, Wood, Stripped Wood, Sign, Pressure Plate, Trapdoor, Stairs, Slab, Fence Gate, Fence, Door), Jukebox, Brown Mushroom Block, Rooted Dirt, Hanging Roots, Packed Mud
+11 STONE 		112, 112, 112 	Stone (slab, stairs), Andesite (slab, stairs, wall), Polished Andesite (slab, stairs), Cobblestone (slab, stairs, wall), Bedrock, Gold Ore, Iron Ore, Coal Ore, Lapis Lazuli Ore, Dispenser, Mossy Cobblestone (slab, stairs, wall), Spawner, Diamond Ore, Furnace, Stone Pressure Plate, Redstone Ore, Stone Bricks (all variants, all slabs, all stairs, all walls), Emerald Ore, Ender Chest, Dropper, Smooth Stone (slab), Observer, Smoker, Blast Furnace, Stonecutter, Sticky Piston, Piston, Piston Head, Gravel, Acacia Log (side), Cauldron (including cauldrons with water, lava, or powdered snow), Hopper, Copper Ore
+12 WATER 		64, 64, 255 	Kelp, Seagrass, Water, Bubble Column, Waterlogged Leaves
+13 WOOD 		143, 119, 72 	Oak (Planks, Log (vertical), Stripped Log, Wood, Stripped Wood, Sign, Door, Pressure Plate, Fence, Trapdoor, Fence Gate, Slab, Stairs), Note Block, Bookshelf, Chest, Crafting Table, Trapped Chest, Daylight Detector, Loom, Barrel, Cartography Table, Fletching Table, Lectern, Smithing Table, Composter, Bamboo Sapling, Dead Bush, Petrified Oak Slab, Beehive, Banners (all colors, when not as markers)
+14 QUARTZ 		255, 252, 245 	Diorite (stairs, slab, wall), Polished Diorite (stairs, slab), Birch Log (side), Quartz Block (all variants, all slabs, all stairs), Sea Lantern, Target
+15 COLOR_ORANGE 		216, 127, 51 	Acacia (Planks, Log (vertical), Stripped Log, Stripped Wood, Sign, Trapdoor, Slab, Stairs, Pressure Plate, Fence Gate, Fence, Door), Red Sand, Orange (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Pumpkin, Carved Pumpkin, Jack o'Lantern, Terracotta, Red Sandstone (all variants, all stairs, all slabs, all walls), Honey Block, Honeycomb Block, Block of Copper (including all cut, waxed, stair, and slab variants), Lightning Rod, Block of Raw Copper
+16 COLOR_MAGENTA 		178, 76, 216 	Magenta (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Purpur (all variants, slab, stairs)
+17 COLOR_LIGHT_BLUE 		102, 153, 216 	Light Blue (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Soul Fire
+18 COLOR_YELLOW 		229, 229, 51 	Sponge, Wet Sponge, Yellow (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Hay Bale, Horn Coral (Coral Block, Coral, Coral Fan), Bee Nest
+19 COLOR_LIGHT_GREEN 		127, 204, 25 	Lime (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Melon
+20 COLOR_PINK 		242, 127, 165 	Pink (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Brain Coral (Coral Block, Coral, Coral Fan), Pearlescent Froglight
+21 COLOR_GRAY 		76, 76, 76 	Acacia Wood, Gray (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Dead Coral (Coral Block, Coral, Coral Fan), Tinted Glass
+22 COLOR_LIGHT_GRAY 		153, 153, 153 	Light Gray (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Structure Block, Jigsaw Block
+23 COLOR_CYAN 		76, 127, 153 	Cyan (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Prismarine (slab, stairs, wall), Warped (Roots, Fungus), Twisting Vines, Nether Sprouts, Sculk Sensor
+24 COLOR_PURPLE 		127, 63, 178 	Shulker Box, Purple (Wool, Carpet, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Mycelium, Chorus Plant, Chorus Flower, Repeating Command Block, Bubble Coral (Coral Block, Coral, Coral Fan), Amethyst Block, Budding Amethyst, Amethyst Cluster, Amethyst Bud (all sizes)
+25 COLOR_BLUE 		51, 76, 178 	Blue (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Tube Coral (Coral Block, Coral, Coral Fan)
+26 COLOR_BROWN 		102, 76, 51 	Dark Oak (Planks, Log, Stripped Log, Wood, Stripped Wood, Sign, Pressure Plate, Trapdoor, Stairs, Slab, Fence Gate, Fence, Door), Spruce Log (side), Brown (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Soul Sand, Command Block, Brown Mushroom, Soul Soil, Mud Brick Slab
+27 COLOR_GREEN 		102, 127, 51 	Green (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), End Portal Frame, Chain Command Block, Sea Pickle, Moss Carpet, Moss Block, Dried Kelp Block
+28 COLOR_RED 		153, 51, 51 	Red (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Bricks (slab, stairs, wall), Red Mushroom Block, Nether Wart, Enchanting Table, Nether Wart Block, Fire Coral (Coral Block, Coral, Coral Fan), Red Mushroom, Shroomlight, Mangrove (Planks, Log (vertical), Stripped Log, Wood, Stripped Wood, Sign, Door, Pressure Plate, Fence, Trapdoor, Fence Gate, Slab, Stairs)
+29 COLOR_BLACK 		25, 25, 25 	Black (Wool, Carpet, Shulker Box, Bed (foot), Stained Glass, Glazed Terracotta, Concrete, Concrete Powder, Candle), Obsidian, End Portal, Dragon Egg, Block of Coal, End Gateway, Basalt, Polished Basalt, Smooth Basalt, Block of Netherite, Ancient Debris, Crying Obsidian, Respawn Anchor, Blackstone (all variants, all stairs, all slabs, all walls), Gilded Blackstone, Sculk, Sculk Vein, Sculk Catalyst, Sculk Shrieker
+30 GOLD 		250, 238, 77 	Block of Gold, Light Weighted Pressure Plate, Bell, Block of Raw Gold
+31 DIAMOND 		92, 219, 213 	Block of Diamond, Beacon, Prismarine Bricks (slab, stairs), Dark Prismarine (slab, stairs), Conduit
+32 LAPIS 		74, 128, 255 	Block of Lapis Lazuli
+33 EMERALD 		0, 217, 58 	Block of Emerald
+34 PODZOL 		129, 86, 49 	Podzol, Spruce (Planks, Log (vertical), Stripped Log, Wood, Stripped Wood, Sign, Pressure Plate, Trapdoor, Stairs, Slab, Fence Gate, Fence, Door), Oak Log (side), Jungle Log (side), Campfire, Soul Campfire, Mangrove Log (side), Mangrove Roots, Muddy Mangrove Roots
+35 NETHER 		112, 2, 0 	Netherrack, Nether Bricks (fence, slab, stairs, wall, chiseled, cracked), Nether Gold Ore, Nether Quartz Ore, Magma Block, Red Nether Bricks (slab, stairs, wall), Crimson (Roots, Fungus), Weeping Vines
+36 TERRACOTTA_WHITE 		209, 177, 161 	White Terracotta, Calcite
+37 TERRACOTTA_ORANGE 		159, 82, 36 	Orange Terracotta
+38 TERRACOTTA_MAGENTA 		149, 87, 108 	Magenta Terracotta
+39 TERRACOTTA_LIGHT_BLUE 		112, 108, 138 	Light Blue Terracotta
+40 TERRACOTTA_YELLOW 		186, 133, 36 	Yellow Terracotta
+41 TERRACOTTA_LIGHT_GREEN 		103, 117, 53 	Lime Terracotta
+42 TERRACOTTA_PINK 		160, 77, 78 	Pink Terracotta
+43 TERRACOTTA_GRAY 		57, 41, 35 	Gray Terracotta, Tuff
+44 TERRACOTTA_LIGHT_GRAY 		135, 107, 98 	Light Gray Terracotta, Exposed Copper (including all cut, waxed, stair, and slab variants), Mud Bricks (stairs, wall)
+45 TERRACOTTA_CYAN 		87, 92, 92 	Cyan Terracotta, Mud
+46 TERRACOTTA_PURPLE 		122, 73, 88 	Purple (Terracotta, Shulker Box)
+47 TERRACOTTA_BLUE 		76, 62, 92 	Blue Terracotta
+48 TERRACOTTA_BROWN 		76, 50, 35 	Brown Terracotta, Pointed Dripstone, Dripstone Block
+49 TERRACOTTA_GREEN 		76, 82, 42 	Green Terracotta
+50 TERRACOTTA_RED 		142, 60, 46 	Red Terracotta, Decorated Pot
+51 TERRACOTTA_BLACK 		37, 22, 16 	Black Terracotta
+52 CRIMSON_NYLIUM 		189, 48, 49 	Crimson Nylium
+53 CRIMSON_STEM 		148, 63, 97 	Crimson (Fence, Fence Gate, Planks, Pressure Plate, Sign, Slab, Stairs, Stem, Stripped Stem, Trapdoor, Door)
+54 CRIMSON_HYPHAE 		92, 25, 29 	Crimson (Hyphae, Stripped Hyphae)
+55 WARPED_NYLIUM 		22, 126, 134 	Warped Nylium, Oxidized Copper (including all cut, waxed, stair, and slab variants)
+56 WARPED_STEM 		58, 142, 140 	Warped (Fence, Fence Gate, Planks, Pressure Plate, Sign, Slab, Stairs, Stem, Stripped Stem, Trapdoor, Door), Weathered Copper (including all cut, waxed, stair, and slab variants)
+57 WARPED_HYPHAE 		86, 44, 62 	Warped (Hyphae, Stripped Hyphae)
+58 WARPED_WART_BLOCK 		20, 180, 133 	Warped Wart Block
+59 DEEPSLATE 		100, 100, 100 	Deepslate (Gold Ore, Iron Ore, Coal Ore, Lapis Ore, Diamond Ore, Redstone Ore, Emerald Ore, Copper Ore), Deepslate (all variants, all stairs, all slabs, and all walls), Infested Deepslate, Reinforced Deepslate
+60 RAW_IRON 		216, 175, 147 	Block of Raw Iron
+61 GLOW_LICHEN 		127, 167, 150 	Glow Lichen, Verdant Froglight
